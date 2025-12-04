@@ -1,4 +1,3 @@
-Numpy
-Matplotlib
-Streamlit
-Math
+streamlit
+numpy
+matplotlib
